@@ -6,13 +6,13 @@
 	<meta charset="utf-8" />
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
- 	 <meta property="og:type" content="website" />
+ 	<meta property="og:type" content="website" />
 	<!-- ------------------------------------------------------------------------------- -->
 	
-	<title>فروشگاه زنبیل</title>
-  <meta property="og:title" content="فروشگاه زنبیل" />
-	<meta property="og:site_name" content="زنبیل" />
-  <!-- ------------------------------------------------------------------------------- -->
+	<title></title>
+  	<meta property="og:title" content="" />
+	<meta property="og:site_name" content="" />
+  	<!-- ------------------------------------------------------------------------------- -->
 
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous"> <!-- bootstrap -->
 	<link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.1.2/css/all.css" type="text/css" media="all" /> <!-- font awesome -->
@@ -38,13 +38,13 @@
 	<!-- <meta property="og:image:height" content="1000" /> -->
  	<!-- ------------------------------------------------------------------------------- -->
 	
- 	<meta property="og:audio" content="https://example.com/bond/theme.mp3" />
  	<meta property="og:description" content="" />
  	<meta property="og:determiner" content="the" />
  	<meta property="og:locale" content="fr_FA" />
  	<meta property="og:locale:alternate" content="fr_FR" />
  	<meta property="og:locale:alternate" content="en_EN" />
- 	<meta property="og:video" content="https://example.com/bond/trailer.swf" />
+ 	<meta property="og:audio" content="https://example.com/bond/theme.mp3" />
+	<meta property="og:video" content="https://example.com/bond/trailer.swf" />
  	<!-- ------------------------------------------------------------------------------- -->
 	
 	<!-- JavaScript Bundle with Popper -->
